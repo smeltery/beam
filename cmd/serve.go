@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dotbrains/beam/internal/beam"
-	"github.com/dotbrains/beam/internal/config"
-	"github.com/dotbrains/beam/internal/storage"
+	"github.com/smeltery/beam/internal/beam"
+	"github.com/smeltery/beam/internal/config"
+	"github.com/smeltery/beam/internal/storage"
 	"github.com/spf13/cobra"
 )
 

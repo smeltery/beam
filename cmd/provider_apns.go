@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dotbrains/beam/internal/beam"
+	"github.com/smeltery/beam/internal/beam"
 )
 
 type apnsRequest struct {

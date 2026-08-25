@@ -1,6 +1,6 @@
 {
   "app": {
-    "bundleIdentifier": "com.dotbrains.beam",
+    "bundleIdentifier": "com.smeltery.beam",
     "displayName": "Beam",
     "minimumOSVersion": "17.0",
     "entryPoint": "AppHost/BeamApp.swift",
@@ -20,7 +20,7 @@
     ]
   },
   "widgetExtension": {
-    "bundleIdentifier": "com.dotbrains.beam.widget",
+    "bundleIdentifier": "com.smeltery.beam.widget",
     "displayName": "Beam Live Activity",
     "minimumOSVersion": "17.0",
     "entryPoint": "WidgetExtension/BeamLiveActivityWidget.swift",

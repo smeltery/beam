@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/dotbrains/beam/internal/beam"
+	"github.com/smeltery/beam/internal/beam"
 )
 
 func TestSQLiteStorePersistsActivitiesAcrossReopen(t *testing.T) {

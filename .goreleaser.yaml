@@ -9,11 +9,11 @@ builds:
 
 homebrew_casks:
   - repository:
-      owner: dotbrains
+      owner: smeltery
       name: homebrew-tap
       token: "{{ .Env.HOMEBREW_TAP_TOKEN }}"
     name: beam
-    homepage: https://github.com/dotbrains/beam
+    homepage: https://github.com/smeltery/beam
     description: "Webhook notifications and interactive approvals"
     license: "PolyForm Shield 1.0.0"
     binaries: [beam]

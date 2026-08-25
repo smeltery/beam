@@ -1,4 +1,4 @@
-module github.com/dotbrains/beam
+module github.com/smeltery/beam
 
 go 1.25.12
 

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dotbrains/beam/internal/beam"
+	"github.com/smeltery/beam/internal/beam"
 )
 
 const defaultExpoPushEndpoint = "https://exp.host/--/api/v2/push/send"

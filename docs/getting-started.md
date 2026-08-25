@@ -1,7 +1,7 @@
 # Getting started
 
 ```sh
-go install github.com/dotbrains/beam@latest
+go install github.com/smeltery/beam@latest
 beam config init
 beam serve
 ```

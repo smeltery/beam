@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/dotbrains/beam/internal/beam"
+	"github.com/smeltery/beam/internal/beam"
 )
 
 func TestSQLiteStorePersistsServiceLifecycle(t *testing.T) {

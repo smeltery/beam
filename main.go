@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/dotbrains/beam/cmd"
+	"github.com/smeltery/beam/cmd"
 )
 
 var version = "dev"

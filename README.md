@@ -1,6 +1,6 @@
 # beam
 
-[![CI](https://github.com/dotbrains/beam/actions/workflows/ci.yml/badge.svg)](https://github.com/dotbrains/beam/actions/workflows/ci.yml)
+[![CI](https://github.com/smeltery/beam/actions/workflows/ci.yml/badge.svg)](https://github.com/smeltery/beam/actions/workflows/ci.yml)
 [![License: PolyForm Shield 1.0.0](https://img.shields.io/badge/license-PolyForm%20Shield%201.0.0-blue.svg)](LICENSE)
 [![Platform: macOS + Linux + Windows](https://img.shields.io/badge/platform-macOS%20%2B%20Linux%20%2B%20Windows-lightgrey.svg)](docs/getting-started.md)
 [![Go](https://img.shields.io/badge/go-1.25.12+-00ADD8.svg)](go.mod)
@@ -25,7 +25,7 @@ $ beam activity start --key deploy --replace --style ring \
 ## Install
 
 ```sh
-go install github.com/dotbrains/beam@latest
+go install github.com/smeltery/beam@latest
 ```
 
 ## Commands

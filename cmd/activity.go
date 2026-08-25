@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/dotbrains/beam/internal/beam"
+	"github.com/smeltery/beam/internal/beam"
 	"github.com/spf13/cobra"
 )
 

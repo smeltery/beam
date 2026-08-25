@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dotbrains/beam/internal/config"
+	"github.com/smeltery/beam/internal/config"
 )
 
 func apiClient() (*config.Config, *http.Client, error) {

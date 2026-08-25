@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dotbrains/beam/internal/beam"
+	"github.com/smeltery/beam/internal/beam"
 )
 
 func TestAPNSRequestsBuildNotificationRequest(t *testing.T) {

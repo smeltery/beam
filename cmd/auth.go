@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/dotbrains/beam/internal/config"
+	"github.com/smeltery/beam/internal/config"
 	"github.com/spf13/cobra"
 )
 
